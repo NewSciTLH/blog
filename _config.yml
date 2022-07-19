@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Call Simulator Blog
-description: A blog for Call Simulator, a technology company. 
+description: A blog for Call Simulator, a technology company. https://callsimulator.com/
 github_username: NewSciTLH
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "blog"
@@ -41,6 +41,7 @@ minima:
   social_links:
     twitter: CallSimulator
     linkedin: "company/call-simulator"
+    website: https://callsimulator.com/ 
 
 # Set this to true to get LaTeX math equation support
 use_math: 
