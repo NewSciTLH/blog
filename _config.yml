@@ -40,8 +40,7 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: CallSimulator
-    linkedin: https://www.linkedin.com/company/call-simulator
-    website: https://www.callsimulator.com/
+    linkedin: company/call-simulator
 
 # Set this to true to get LaTeX math equation support
 use_math: 
