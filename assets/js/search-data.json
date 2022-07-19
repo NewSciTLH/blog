@@ -1,16 +1,5 @@
 {
   
-    
-        "post0": {
-            "title": "Deploying Custom Models in Vertex AI",
-            "content": "",
-            "url": "https://newscitlh.github.io/blog/2022/07/18/_07_15_Deploying_Custom_Models_in_Vertex_AI.html",
-            "relUrl": "/2022/07/18/_07_15_Deploying_Custom_Models_in_Vertex_AI.html",
-            "date": " • Jul 18, 2022"
-        }
-        
-    
-  
 
   
   
@@ -37,7 +26,7 @@
   
 
   
-      ,"page9": {
+      "page9": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://newscitlh.github.io/blog/robots.txt",
